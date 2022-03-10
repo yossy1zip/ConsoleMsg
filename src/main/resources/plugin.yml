@@ -1,0 +1,10 @@
+name: ConsoleMsg
+version: '${project.version}'
+main: com.yiorno.consolemsg.ConsoleMsg
+api-version: 1.18
+prefix: [ CM ]
+description: Unko Spigot not working target selector
+commands:
+  consolemsg:
+    description: send players message from console
+    permission: mofucraft.staff
